@@ -4,6 +4,6 @@
 - 🤔 I'm interested in 'Game Developing'
 
 <p><b>:mailbox: Contact Me:<b><a href="mailto:poyrazakyol02@gmail.com"> poyrazakyol02@gmail.com<a><p>
- 
-  
 
+
+ <img src="https://www.codewars.com/users/poyrazakyol/badges/large">
