@@ -5,5 +5,6 @@
 
 <p><b>:mailbox: Contact Me:<b><a href="mailto:poyrazakyol02@gmail.com"> poyrazakyol02@gmail.com<a><p>
 
+ <img src="https://skillicons.dev/icons?i=py,c,cpp,unity,arduino,gamemakerstudio">
 
  <img src="https://www.codewars.com/users/poyrazakyol/badges/large">
